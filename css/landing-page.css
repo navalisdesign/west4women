@@ -17,8 +17,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 400;
 }
 
 .topnav {
@@ -67,6 +67,7 @@ h6 {
 @media(max-width:767px) {
     .intro-message {
 	padding-bottom: 20%;
+	font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     }
 
     .intro-message > h1 {
